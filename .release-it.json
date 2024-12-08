@@ -1,3 +1,6 @@
 {
-    "$schema": "https://unpkg.com/release-it@17/schema/release-it.json"
+    "$schema": "https://unpkg.com/release-it@17/schema/release-it.json",
+    "extends": [
+        "https://raw.githubusercontent.com/juancarlosjr97/release-it-configuration/refs/heads/main/.release-it.json"
+    ]
 }
