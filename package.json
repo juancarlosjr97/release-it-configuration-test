@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "release": "release-it --ci",
+    "release:dry-run": "release-it --ci --dry-run"
+  },
+  "version": "0.58.0",
+  "dependencies": {
+    "@release-it/bumper": "^6.0.1",
+    "@release-it/conventional-changelog": "9.0.3",
+    "release-it": "file:../release-it"
+  }
+}
