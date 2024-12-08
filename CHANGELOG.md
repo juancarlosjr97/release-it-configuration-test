@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.60.0](https://github.com/juancarlosjr97/release-it-configuration-test/compare/0.59.0...0.60.0) (2024-12-08)
+
+### Features
+
+* add release-it configuration centralized ([86e0677](https://github.com/juancarlosjr97/release-it-configuration-test/commit/86e0677dedc607e9cd9d44568fa311fa4da74271))
+
 ## 0.59.0 (2024-12-08)
 
 ### Features
